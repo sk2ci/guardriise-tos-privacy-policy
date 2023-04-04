@@ -1,12 +1,12 @@
-GuardRise Gizlilik Politikası
+Moderation BOT Gizlilik Politikası
 Son Değiştirilme Tarihi : 06.03.2023
 
-Bu gizlilik politikası GuardRise (1076824480455868497) botunundur. 
+Bu gizlilik politikası Moderation BOT (1061429885618356266) botunundur. 
 Bilgi
 Kullanıcı – Discord platformuna kayıtlı olan her bir tekil kullanıcı.
 ID – Her kullanıcıya özgü oluşturulmuş, kullanıcıyı temsil eden bir kimlik.
 Sunucu – Discord platformuna kayıtlı olan her bir tekil sunucu.
-Link - Kullanıcının link ekleme komutu ile belirttiği link/adres.
+Yardım - Kullanıcının Yardım komutu ile belirttiği komut yardımıdır.
 
 1) Saklanan Verileriniz
 1A) Komut Kullanılarak Saklanılan Veriler
