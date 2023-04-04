@@ -1,4 +1,4 @@
-Guard Rise Hizmet Şartları (ToS)
+Moderation BOT Hizmet Şartları (ToS)
 
 1- Hesap
 1.1- Hesabınız ile hizmetlerimiz üzerinden işlem yaptığınız zaman hizmet şartlarımızı kabul etmiş sayılırsınız.
@@ -6,7 +6,7 @@ Guard Rise Hizmet Şartları (ToS)
 
 2- Yasaklar
 2.1- Genel sunucu kuralları detaylı olarak 📜・kurallar kanalında yazmakta.
-2.2- @GuardRise botunun kuralları 🔋・bot-kurallar  kanalında yazan maddeleri içermektedir.
+2.2- @Moderation BOT botunun kuralları 🔋・bot-kurallar  kanalında yazan maddeleri içermektedir.
 
   3- Kullanıcı Hakları
 3.1- Kullanıcı kendisi ve kendisi ile ilişkilendirilmiş bütün verilerinin kendisine bildirilmesini ve silinmesi haklarına sahiptir.
